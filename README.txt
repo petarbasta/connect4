@@ -1,5 +1,3 @@
-CONNECT 4
-
 A connect 4 bot to play against.
 
 GAMEPLAY
