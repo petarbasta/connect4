@@ -8,3 +8,5 @@ GAMEPLAY
 -Type column # you wish to play next
 
 *Note* If you figure out how the computer plays, it shouldn't be too hard to beat
+
+~Petar Basta~
